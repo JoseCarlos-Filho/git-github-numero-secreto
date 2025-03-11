@@ -15,6 +15,8 @@
     descobrir o mesmo.
 
 ## Objetivo
+    Utilzar as ferramentas de controle de versão Git e GitHub, entender para que server e como
+    utilizar em um projeto na IDE VSCode. 
     Práticar a lógica de programação utilizando a linguagem JavaScript, aplicando os conceitos
     básicos da linguagem e manipular dados da DOM.
 
@@ -54,4 +56,3 @@
         - Utilizar o arquivo .gitignore
         - Entender o impact que cada comando gera no histórico do commit
         - Checar os commits realizados durante uma colaboração de código
-
